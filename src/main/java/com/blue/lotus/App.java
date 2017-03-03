@@ -17,7 +17,7 @@ public class App
         String datestr = "2016-01- 12:22:02";
         Date d1 = DateUtils.stringToDate(datestr);
         System.out.print(d1);
-        System.out.print("test git add ");
+        System.out.print("test git add, update b1 at github");
 
     }
 }
