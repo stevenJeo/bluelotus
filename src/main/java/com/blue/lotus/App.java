@@ -14,7 +14,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 
-        String datestr = "2016-01- 12:22:02";
+        String datestr = "2016-01-01 12:22:02";
         Date d1 = DateUtils.stringToDate(datestr);
         System.out.print(d1);
         System.out.print("test git add ");
